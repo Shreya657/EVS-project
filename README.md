@@ -40,13 +40,6 @@ Built as a companion to our B.Tech Capstone Project, this application demonstrat
 
 ---
 
-## 📸 Screenshots
-
-| Landing Page | Analytics Dashboard |
-|:---:|:---:|
-| *(Add your Landing Page Screenshot here)* | *(Add your Dashboard Screenshot here)* |
-
-> *The interface features a custom "Helios Navy" gradient (`#020617` to `#00031d`) derived from the project's original technical presentation.*
 
 ---
 
